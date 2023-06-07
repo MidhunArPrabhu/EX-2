@@ -18,8 +18,8 @@ To write a python program to perform sliding window protocol
 
 ## CLIENT PROGRAM :
 ```PYTHON 3 
-## Developed : karna S
-## Reg no : 212222110017
+## Developed : MIDHU AZHAHU RAJA P
+## Reg no : 212222240066
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
